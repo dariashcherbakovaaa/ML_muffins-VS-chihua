@@ -6,3 +6,4 @@ There is a final project for ML course on Kaggle's dataset
 * Build at least 3 network architectures and train hyper parameters;
 * Perform 5-fold cross-validation to compute risk estimates
 
+![LOL](/Users/svesh1971/Downloads/photo_5348326494159621234_y.jpg)
