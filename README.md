@@ -1,4 +1,4 @@
-# ML_muffins-VS-chihua
+# CNN's binary classification
 There is a final project for ML course on Kaggle's dataset
 
 ### The task is:
